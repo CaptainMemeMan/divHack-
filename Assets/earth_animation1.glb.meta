@@ -1,0 +1,572 @@
+- !<AssetImportMetadata/08219b8b-5961-4704-aed7-e9740c1ff721>
+  ImportedAssetIds:
+    .hidden/Material.001: !<reference> 4547b83a-1fb6-45ab-96e2-4b34246c884a
+    08861577d50cebac: !<reference> d9ff0184-8a89-4f8b-baa6-861406a08b3a
+    0cfb89485522857c: !<reference> c17d2ea2-b33b-49db-86db-29c61746f89e
+    0f94073236bf5453: !<reference> db299bbc-e4ca-432e-ac26-eca364e9c02e
+    14aaea23d407c013: !<reference> 6678ff59-a148-4fe3-9e61-b6cd31c50493
+    28002b4fabee17ef: !<reference> 3d3f783a-96c7-4c24-b274-59a15fcc52d3
+    2adb9beeba8f0d46: !<reference> e2551330-ef50-42ab-a8ba-cf7b4eca757c
+    3778787f2eea04dd: !<reference> c7ad6feb-12ad-4d35-b2fe-3b321308ff68
+    3a015f7d36cfa1e0: !<reference> ddcdbcb6-d234-4638-ab6e-95d6d6dfbdf5
+    4e6c8797971782b8: !<reference> 25bccfc8-9b4b-406b-84d6-ad55b3bc4fc7
+    624f6792bd6e379e: !<reference> 28383dc1-0e85-41a6-ac31-d28dbbe75cb1
+    6e4bc7385bd7f3b9: !<reference> 489bab01-3af4-402c-8b26-8c9a8ca09929
+    72ef0305a2e16226: !<reference> 3b9ebc48-9f61-414d-acd4-16d9157bac44
+    7a0dd5cd69df73fa: !<reference> 95abbf4d-626e-4b10-8826-b0d5c37805b0
+    87ae589896de9cf6: !<reference> 9cb18bc4-a26b-4f28-ad2a-cc696f5eb4f0
+    CubeAction: !<reference> 48a80c6a-f373-4506-87a6-6ea7a4f249b3
+    CubeAction.001: !<reference> ce6689bf-1189-4660-87cd-a0fe7d48b872
+    CubeAction.002: !<reference> d06521dd-f630-4835-be51-08ec12b206df
+    Materials/Material.001: !<reference> 0ea590ed-d45d-43bd-9fd5-cbd52859bffc
+    Materials/Material.001|Material.001|GraphPassInfo: !<reference> 9285f134-9046-4674-abd0-53fafdce89d5
+    Materials/Material.003: !<reference> 4b9d9645-ca7d-4c77-b3fa-1707f8604bd7
+    Materials/Material.003|Material.003|GraphPassInfo: !<reference> 8e658a3b-7fa3-4069-9d3f-ff51442c7347
+    Materials/Material.005: !<reference> c92d5999-ca0b-4e73-b0ee-744982194398
+    Materials/Material.005|Material.005|GraphPassInfo: !<reference> 49e7c060-efce-4483-bfb8-76b2023cccb4
+    Materials/Material.013: !<reference> b96dca8f-8ba5-4a07-bec1-e2f79ccb4d25
+    Materials/Material.013|Material.013|GraphPassInfo: !<reference> 08db6f4d-1211-4911-8e3e-3301b00561c1
+    Meshes/Cube.001: !<reference> d10f9092-1b55-4aad-b738-1be928bfeefb
+    Meshes/Cube.002: !<reference> 7f58f959-c1fd-4788-9f21-ade94e6cf926
+    Meshes/Cube.003: !<reference> 979efe21-e013-45e8-adef-3e94e96932e8
+    Meshes/Sphere: !<reference> 925e72ee-44e7-4cd1-a7fd-f4c9f12ec850
+    Meshes/Suzanne: !<reference> 89f06f6a-5d65-404c-98c9-6f28e7fa6d60
+    Meshes/Suzanne.001: !<reference> 273e7e1f-2c56-4601-a0cd-4ca54477f2cb
+    Meshes/Suzanne.002: !<reference> a74e077d-503c-4a4c-9bca-c2614403a01d
+    Meshes/Suzanne.006: !<reference> 7b284295-791b-43b4-819b-246b902bdb15
+    Scene: !<reference> 2575ca2c-b107-475c-a848-d0dae6f8a7b7
+    Suzanne.001Action: !<reference> 58a4a7c3-10bd-4c6b-bde6-6a720ba0ad6a
+    SuzanneAction: !<reference> b36af5c0-8697-4db2-aefa-97e856da9fb6
+    SuzanneAction.001: !<reference> ed74a04f-0625-4ac7-bd45-9bc02f1a386f
+    SuzanneAction.005: !<reference> f52ede09-77be-4593-957a-7dbacd74a279
+    Textures/earthPaint: !<reference> 56a79eda-852c-4e98-8fb0-aa9b62ace521
+    Textures/mini_earth: !<reference> 3641403e-1895-4ef5-a943-8a8535d2f26f
+    a5b22ead1a62a59e: !<reference> 735dc54e-82bb-493f-936c-14a3f65272fa
+    acdcef40226ec16a: !<reference> 1fa7f351-f667-4a4f-ab3f-0d175ec2f75d
+    ae70d6cbe9b4a29c: !<reference> 6f06d865-8d12-4198-a54c-0ac770208fdc
+    d1ad11cea4ca1a32: !<reference> 64f2cd1b-8fc8-42f5-bcad-636318761347
+    d4950848046a451a: !<reference> e7921782-4ece-4e02-b37b-ae5542153378
+    d93ff737f11c0fc8: !<reference> 2505d6da-676c-428a-8c90-2a6030cd0a91
+    e140c4199169af55: !<reference> 839705b5-1835-49ba-950b-f92f080cefcb
+    f8f8622a5e70d97f: !<reference> f72c4fad-6a4e-40ef-85d0-7bdd9161af55
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 2575ca2c-b107-475c-a848-d0dae6f8a7b7
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> fa844e3f-1b68-49e7-9a0a-d6d8082ef876
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings/5c335456-19e4-4b8e-8b7f-0783c8e7da0d>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings/5c178117-b642-410f-9499-5cf1c31b0308>
+    Presets:
+      None Compression: !<SingleCompressionSettings/c6982b83-177a-4f17-8312-7e8ad62b0f37>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/85e8d93b-04a5-4d0d-94a0-f34fe13c4860>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/5aa986bb-1845-412d-b920-730c7914727c>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/1726d7b3-a669-48e8-8465-4f1701d45387>
+  PrefabRemaps:
+    []
+  Name: Cube.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.010899}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.186379, y: 0.186379, z: 0.186379}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 58f7cb92-40af-46dc-9f65-7e71a09ed19b
+- !<SceneObject/24bb75cc-8fc7-4f3c-b544-06ff1307480b>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b2a33c8d-8bf5-4237-a628-5eef70570d88
+    - !<own> 3d1ba69d-8e27-4028-8b9b-b1995cb3ea38
+    - !<own> e9996f67-29ee-4cab-8eef-31303cc4f57c
+    - !<own> aa6e3eed-f2c4-4b9a-ba97-b3ab43fb8614
+    - !<own> 1726d7b3-a669-48e8-8465-4f1701d45387
+    - !<own> 3a3c4b37-d695-4916-9335-18ce1e184015
+    - !<own> 9ffa9f1c-91b3-417b-89fd-f0d989b2a1b3
+    - !<own> 6cf7387b-8324-4141-ad6d-a4a46dc52b32
+    - !<own> 61f19292-dafb-4944-9934-a9b5d6b682ac
+    - !<own> fbb1c0cf-ce00-4dfc-826e-9f7812f69894
+  Components:
+    - !<own> 308fd621-527a-4588-87fe-8462792a4bcc
+- !<SceneObject/28137307-fdec-4073-b05d-8f8a2d40cf62>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 24bb75cc-8fc7-4f3c-b544-06ff1307480b
+  Components:
+    []
+- !<RenderMeshVisual/2a21765e-1055-4e00-9e8a-eaf7b7582df0>
+  PrefabRemaps:
+    []
+  Name: Cube.003
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4b9d9645-ca7d-4c77-b3fa-1707f8604bd7
+  Mesh: !<reference> 979efe21-e013-45e8-adef-3e94e96932e8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/2ad8a14a-77d2-4010-a722-3483ab004451>
+  PrefabRemaps:
+    []
+  Name: Suzanne.006
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4b9d9645-ca7d-4c77-b3fa-1707f8604bd7
+  Mesh: !<reference> 7b284295-791b-43b4-819b-246b902bdb15
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefab/2fa67f0a-70bf-4724-9458-f463ee30169a>
+  PackagePath: ""
+  objects:
+    - !<own> 749482f5-bf43-4271-8fd2-6b371be9991b
+  LazyLoading: false
+  RetainAssets: true
+- !<AnimationPlayer/308fd621-527a-4588-87fe-8462792a4bcc>
+  PrefabRemaps:
+    []
+  Name: component_8
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> d06521dd-f630-4835-be51-08ec12b206df
+      Name: CubeAction.002
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 106.250000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> 48a80c6a-f373-4506-87a6-6ea7a4f249b3
+      Name: CubeAction
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 87.500000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> ce6689bf-1189-4660-87cd-a0fe7d48b872
+      Name: CubeAction.001
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 106.250000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> b36af5c0-8697-4db2-aefa-97e856da9fb6
+      Name: SuzanneAction
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 227.500000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> f52ede09-77be-4593-957a-7dbacd74a279
+      Name: SuzanneAction.005
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 198.750000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> 58a4a7c3-10bd-4c6b-bde6-6a720ba0ad6a
+      Name: Suzanne.001Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+    - !<AnimationClip/00000000-0000-0000-0000-000000000000>
+      AnimationAsset: !<reference> ed74a04f-0625-4ac7-bd45-9bc02f1a386f
+      Name: SuzanneAction.001
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 212.500000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/3a3c4b37-d695-4916-9335-18ce1e184015>
+  PrefabRemaps:
+    []
+  Name: Cube.002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.010899}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.186379, y: 0.186379, z: 0.186379}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2a21765e-1055-4e00-9e8a-eaf7b7582df0
+- !<SceneObject/3d1ba69d-8e27-4028-8b9b-b1995cb3ea38>
+  PrefabRemaps:
+    []
+  Name: Camera
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 7.358891, y: 4.958309, z: 6.925791}
+    rotation: {x: 63.559296, y: 46.691948, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<RenderMeshVisual/58f7cb92-40af-46dc-9f65-7e71a09ed19b>
+  PrefabRemaps:
+    []
+  Name: Cube.002
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4b9d9645-ca7d-4c77-b3fa-1707f8604bd7
+  Mesh: !<reference> 7f58f959-c1fd-4788-9f21-ade94e6cf926
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/61f19292-dafb-4944-9934-a9b5d6b682ac>
+  PrefabRemaps:
+    []
+  Name: Suzanne.002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.167003, y: 0.167003, z: 0.167003}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6ef8ae1e-8cb2-4850-bfb6-274729cd6eb5
+- !<RenderMeshVisual/6b518c95-ba93-4b0b-9755-3509cc5879d3>
+  PrefabRemaps:
+    []
+  Name: Cube.001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0ea590ed-d45d-43bd-9fd5-cbd52859bffc
+  Mesh: !<reference> d10f9092-1b55-4aad-b738-1be928bfeefb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6cf7387b-8324-4141-ad6d-a4a46dc52b32>
+  PrefabRemaps:
+    []
+  Name: Suzanne.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.590632, y: -0.062167, z: 1.781851}
+    rotation: {x: 0.000000, y: 90.000000, z: 0.000000}
+    scale: {x: 0.102005, y: 0.102005, z: 0.102005}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 806227d2-fd8a-4e78-b880-1c280ab23fa0
+- !<RenderMeshVisual/6ef8ae1e-8cb2-4850-bfb6-274729cd6eb5>
+  PrefabRemaps:
+    []
+  Name: Suzanne.002
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c92d5999-ca0b-4e73-b0ee-744982194398
+  Mesh: !<reference> a74e077d-503c-4a4c-9bca-c2614403a01d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/749482f5-bf43-4271-8fd2-6b371be9991b>
+  PrefabRemaps:
+    []
+  Name: earth_animation1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 28137307-fdec-4073-b05d-8f8a2d40cf62
+  Components:
+    []
+- !<RenderMeshVisual/806227d2-fd8a-4e78-b880-1c280ab23fa0>
+  PrefabRemaps:
+    []
+  Name: Suzanne.001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    []
+  Mesh: !<reference> 273e7e1f-2c56-4601-a0cd-4ca54477f2cb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/9ffa9f1c-91b3-417b-89fd-f0d989b2a1b3>
+  PrefabRemaps:
+    []
+  Name: Suzanne
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.167003, y: 0.167003, z: 0.167003}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ef42ed78-9f21-4e57-99ae-6ef7fc1d7b96
+- !<SceneObject/aa6e3eed-f2c4-4b9a-ba97-b3ab43fb8614>
+  PrefabRemaps:
+    []
+  Name: Cube
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.010899}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.186379, y: 0.186379, z: 0.186379}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6b518c95-ba93-4b0b-9755-3509cc5879d3
+- !<RenderMeshVisual/af4978e2-9196-4980-a7ea-dbb2373b74e1>
+  PrefabRemaps:
+    []
+  Name: Sphere
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b96dca8f-8ba5-4a07-bec1-e2f79ccb4d25
+  Mesh: !<reference> 925e72ee-44e7-4cd1-a7fd-f4c9f12ec850
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b2a33c8d-8bf5-4237-a628-5eef70570d88>
+  PrefabRemaps:
+    []
+  Name: Light
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.076245, y: 5.903862, z: -1.005454}
+    rotation: {x: -132.466431, y: 72.779251, z: -169.256332}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/e9996f67-29ee-4cab-8eef-31303cc4f57c>
+  PrefabRemaps:
+    []
+  Name: Sphere
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> af4978e2-9196-4980-a7ea-dbb2373b74e1
+- !<RenderMeshVisual/ef42ed78-9f21-4e57-99ae-6ef7fc1d7b96>
+  PrefabRemaps:
+    []
+  Name: Suzanne
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c92d5999-ca0b-4e73-b0ee-744982194398
+  Mesh: !<reference> 89f06f6a-5d65-404c-98c9-6f28e7fa6d60
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/fa844e3f-1b68-49e7-9a0a-d6d8082ef876>
+  SourceRemaps:
+    - 1fa7f351-f667-4a4f-ab3f-0d175ec2f75d: af4978e2-9196-4980-a7ea-dbb2373b74e1
+    - 2505d6da-676c-428a-8c90-2a6030cd0a91: b2a33c8d-8bf5-4237-a628-5eef70570d88
+    - 25bccfc8-9b4b-406b-84d6-ad55b3bc4fc7: 24bb75cc-8fc7-4f3c-b544-06ff1307480b
+    - 28383dc1-0e85-41a6-ac31-d28dbbe75cb1: 28137307-fdec-4073-b05d-8f8a2d40cf62
+    - 3b9ebc48-9f61-414d-acd4-16d9157bac44: fbb1c0cf-ce00-4dfc-826e-9f7812f69894
+    - 3d3f783a-96c7-4c24-b274-59a15fcc52d3: ef42ed78-9f21-4e57-99ae-6ef7fc1d7b96
+    - 489bab01-3af4-402c-8b26-8c9a8ca09929: e9996f67-29ee-4cab-8eef-31303cc4f57c
+    - 64f2cd1b-8fc8-42f5-bcad-636318761347: 9ffa9f1c-91b3-417b-89fd-f0d989b2a1b3
+    - 6678ff59-a148-4fe3-9e61-b6cd31c50493: 806227d2-fd8a-4e78-b880-1c280ab23fa0
+    - 6f06d865-8d12-4198-a54c-0ac770208fdc: 2ad8a14a-77d2-4010-a722-3483ab004451
+    - 735dc54e-82bb-493f-936c-14a3f65272fa: 6cf7387b-8324-4141-ad6d-a4a46dc52b32
+    - 839705b5-1835-49ba-950b-f92f080cefcb: 308fd621-527a-4588-87fe-8462792a4bcc
+    - 95abbf4d-626e-4b10-8826-b0d5c37805b0: 749482f5-bf43-4271-8fd2-6b371be9991b
+    - 9cb18bc4-a26b-4f28-ad2a-cc696f5eb4f0: 1726d7b3-a669-48e8-8465-4f1701d45387
+    - c17d2ea2-b33b-49db-86db-29c61746f89e: aa6e3eed-f2c4-4b9a-ba97-b3ab43fb8614
+    - c7ad6feb-12ad-4d35-b2fe-3b321308ff68: 61f19292-dafb-4944-9934-a9b5d6b682ac
+    - d9ff0184-8a89-4f8b-baa6-861406a08b3a: 6ef8ae1e-8cb2-4850-bfb6-274729cd6eb5
+    - db299bbc-e4ca-432e-ac26-eca364e9c02e: 58f7cb92-40af-46dc-9f65-7e71a09ed19b
+    - ddcdbcb6-d234-4638-ab6e-95d6d6dfbdf5: 6b518c95-ba93-4b0b-9755-3509cc5879d3
+    - e2551330-ef50-42ab-a8ba-cf7b4eca757c: 2a21765e-1055-4e00-9e8a-eaf7b7582df0
+    - e7921782-4ece-4e02-b37b-ae5542153378: 3d1ba69d-8e27-4028-8b9b-b1995cb3ea38
+    - f72c4fad-6a4e-40ef-85d0-7bdd9161af55: 3a3c4b37-d695-4916-9335-18ce1e184015
+  SourceState: !<own> 2fa67f0a-70bf-4724-9458-f463ee30169a
+- !<SceneObject/fbb1c0cf-ce00-4dfc-826e-9f7812f69894>
+  PrefabRemaps:
+    []
+  Name: Suzanne.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.167003, y: 0.167003, z: 0.167003}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2ad8a14a-77d2-4010-a722-3483ab004451
